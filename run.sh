@@ -1,5 +1,5 @@
 #! /bin/bash
-VBR="750k"                                    
+VBR="2500k"                                    
 FPS="30"                                    
 QUAL="veryfast"                              
 YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2"
